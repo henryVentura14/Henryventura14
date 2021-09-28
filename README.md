@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/henryhvg14" target="blank"><img src="https://img.shields.io/twitter/follow/henryhvg14?logo=twitter&style=for-the-badge" alt="henryhvg14" /></a> </p>
 
-- 🔭 I’m currently working in [Blacksip](https://blacksip.com/)
+- 🔭 I’m currently working in [ITGlobbers](https://itglobers.com/)
 
 - 🌱 I’m currently learning **Graphq and Vtex IO**
 
