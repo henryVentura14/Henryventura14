@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working in [Rappi](https://www.rappi.com.co/)
 
-- 🌱 I’m currently learning **Graphq and Vtex IO**
+- 🌱 I’m currently learning **Design Patterns**
 
 - 👨‍💻 All of my projects are available at [https://henry-ventura-site.netlify.app/](https://henry-ventura-site.netlify.app/)
 
