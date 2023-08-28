@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Design Patterns**
 
-- 👨‍💻 All of my projects are available at [https://henry-ventura-site.netlify.app/](https://henry-ventura-site.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://henry-ventura.vercel.app//](https://henry-ventura.vercel.app/)
 
 - 📫 How to reach me **henry.ventura14@gmail.com**
 
