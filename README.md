@@ -16,11 +16,18 @@ I’m recognized for my **tech adaptability**, **dedication**, **clear communica
 - Built and maintained **RESTful APIs** to integrate frontend and backend.  
 - Developed **microservices with Node.js and Express**, leveraging AWS for scalability.  
 
-### 🔹 Software Developer – [Gradiweb](https://gradiweb.com) *(Hybrid, Aug 2024 - Present)*
+### 🔹 Software Developer – [Gradiweb](https://gradiweb.com) *(Hybrid, Aug 2024 - Oct 2025)*
 - Advanced **Shopify** customization using *Liquid* and tailor-made modules.  
 - Performance optimization with **GraphQL** and efficient queries.  
 - Modern web development with **Remix, JavaScript, and TypeScript**.  
-- Automated key processes through external **API integrations**.  
+- Automated key processes through external **API integrations**.
+
+### 🔹 Software Developer – [MercadoLibre](https://www.mercadolibre.com.co) *(Hybrid, Oct 2025 - Present)*
+- Led impactful projects leveraging **cutting-edge AI tools** to enhance marketplace solutions.  
+- Built and maintained scalable applications with **React, JavaScript, SCSS, and Express**.  
+- Ensured reliability and quality through **unit testing** and modern development practices.  
+- Contributed to strategic initiatives that deliver measurable value to the **Sellers area** of the marketplace.  
+
 
 ---
 
