@@ -52,8 +52,6 @@ I’m recognized for my **tech adaptability**, **dedication**, **clear communica
 ## 📌 Featured Projects
 
 - 🌐 [Personal Portfolio](https://henry-ventura.vercel.app)  
-- 🛒 [Uptag](https://uptag.net)  
-- 📂 [Online Resume](https://drive.google.com/file/d/1JCFN99U124h-hcuAxgrYZOXYHiYMJYBn/view?usp=drive_link)  
 
 ---
 
